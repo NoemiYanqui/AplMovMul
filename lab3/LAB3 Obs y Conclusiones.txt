@@ -1,0 +1,44 @@
+LABORATORIO 3                             CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES
+///////////////////////////////////////////////////////////////////////////////
+
+Se observó que react Native al crear el proyecto crea dos carpeta, una de android
+y otra de iOS, ademá ambas contienen código nativo.
+
+Se observó que al crear el entorno de variable de android_home no se reconocía,
+de modo que al ejecutar la app en el celular y mostraba error, debido a que era
+necesario reiniciar la máquina para que se reconozcan la variable de entorno.
+
+Se observó la instalación de chocolatey, por medio de la descarga del paquete, 
+para instalar node.js, python2  y jdk8.
+ 
+Se observó también la instalación del gestor de paquetes npm juntamente con 
+react-native-cli.
+
+Se observó  la utilizacion del comando react-native init nombredelProyecto, 
+que nos permite crear el proyecto.
+
+Se observa que el archivo por defecto en ejecutarse es App.js
+///////////////////////////////////////////////////////////////////////////////
+CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+Se aprendió los códigos para crear el nuevo proyecto, asi como la instalación de 
+paquetes, jdk, , los sdks de android.
+
+Se realizó la primera aplicacion en react, ejectutandolo en android, pero tambien 
+se puede ejecutra iOS, sólo será necesario indicarle en el código bajo que dispositivo
+se correrá la aplicación.
+
+Se aprendió que react native trabajo por medio de componentes,se vieron los elementos
+de view, text, image.
+
+Se aprendió que no es necesario parar el servicio, soloa gitar el celular y presionar
+la opcion de reload para visualizar los cambios que realicemos en el código que es un 
+equivalente a refrescar el dispositivo y si trabajamos con el emualdor entonces se 
+presionará las teclas ctrl+m. 
+Se vió que react muestra los errores que se puedan presentar,y los muestra en el dispositivo
+en la pantalla del celular.
