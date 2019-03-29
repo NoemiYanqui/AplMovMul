@@ -1,0 +1,36 @@
+		LABORATORIO 1 REACT (APLICACIONES MULTIPLATAFORMA)
+
+////////////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES Y CONCLUSIONES
+////////////////////////////////////////////////////////////////////////////////////
+
+Se aprendió los comando a ejecutar para trabajar con react, para ello necesitamos 
+instalar npm install -g create-react-app (-g es para crearlo como variable global)
+
+Se aprendió que el código : create-react-app nombreDelProyecto es la manera de 
+crear un proyecto en React.
+
+Se vió la ejecución del comando npm start para correr el proyecto creado.
+
+Este laboratorio nos permitió ver e instalar el entorno para trbajar con react,que
+es sencillo.
+
+Se vió Next-Gen javascript, observandose let, const y var 
+
+Se observó la utilizacion de Arrow functions, que consiste en una manera distinta de
+crear funciones en JavaScript, presnetando una sintaxis más corta y de muchas maneras
+puede ser escrita.
+
+Se  vio import y Export, con la funalidad de que cada funcionalidad se encuentre en 
+un archivo único, de modo que al querer utilizarlo se debe importar dicho archivo .js
+y para que dicho archivo pueda ser accedido desde otro lugar,e ntonces éste deberá ser 
+exportado utilizando el comando export.
+
+Se aprendió que existen dos tipos de exportación, aquella que es por Default y const SomeData
+Aquellas que son de NamedExports el nombre es inalterable.
+
+Se vió el Spread Operator que significa la utilizacion de tres puntos consecutivos ...
+esta sintaxis es útil para separar elementos de una array o un objeto; también para 
+clonar arrays u objetos,de modoq ue se pueden copiar de modo seguro y prevenir
+mutaciones de los originales.
+ 
