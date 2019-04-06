@@ -1,0 +1,61 @@
+LABORATORIO 2                             CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+2.3 Se adjunta la captura del componente,
+	nombre de la captura: captura 2.3 
+5.6 Se adjunta la captura del comportamiento con los botones de aumentar,
+	disminuir o resetar.
+	nombre de la captura: captura5.6
+TAREA:
+Creacion de un componente calculadora:
+CODIGO:
+ ver captura en codigoComponenteCalculadora.
+ captura Calculadora
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES
+///////////////////////////////////////////////////////////////////////////////
+
+Se observó que para la generacion un proyecto en react se hace mediante el código
+create-react-app nombre.
+Al ejecutar npm star nos pide ingresar algunos datos, como autor, version , 
+palabras claves y otros.
+
+Se observó la generación del archivo package.json donde se encuentra el nombre 
+del proyecto, la version y las dependencias que utiliza este proyecto, asimismo 
+con las versiones de dichas dependencias, todas estas dependedncias o paquetes
+son instalados en el node_modules.
+
+Se observa que la carpeta node_modules es la más pesada de todo el proyecto.
+
+Se observó que para crear un componente , este ese puede hacer mediante la 
+creacion de una class pero que debe heredar de Component.
+
+Se observa que dentro de un componente se ve el método render(){}
+
+Se observa que para visualizar un componente dentro del archivo ejecutable
+App.js ,entonces necesitamos importar el componente , mediante el código de 
+import nombredelavariable from 'ruta de donde se encuenta el componente.js'
+
+Se observó también que en App.js debemos importar React, { Component} from 'react'
+para que se utilice los componentes creados.
+
+Se observó la utilizacion de props. que nos permite recibir todo argumento pasado
+al componente desde App.js
+Es interesante ver como se replica el mismo componente cuando enviamos dos valores 
+distintos al contador.
+
+///////////////////////////////////////////////////////////////////////////////
+CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+
+-->Se aprendió a insertar un css dentro de un componente, mediante la utilización de 
+import 'ruta del archivo css  con su extensión' 
+-->Se aprendió que para ejecutar el archivo app.js  se hace mendiante el código 
+npm start.
+-->Se aprendió la utilización del props y los states de un componente
+-->Se vió que por medio de la utilización de un state  un componente puede tener un ciclo
+de vida.
+-->Se aprendió que en el método render se cargar se visualizan los elementos insertados alli
+para este caso elementos html.
+-->Se vió tambien el método setState. 
