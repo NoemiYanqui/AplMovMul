@@ -1,0 +1,76 @@
+LABORATORIO 4                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+2.3 Se adjunta la captura del proyecto en el celular
+	nombre de la captura: captura 2.3 
+2.6 Se adjunta la captura de la aparición del contador
+	nombre de la captura: captura2.6
+3.1. Se observa una captura donde sale 6 contaadores, esto es porque
+	llamamos tres veces al componente contador, y en el componente
+	contador existen dos textos, en el primero obtiene el valor enviado 
+	desde App.js y en el siguietne texto muestal el estado o valor 0.  
+3.2 Se observa la existencia de los botones declarados dentro del componente
+	contador,dos botones por cada componente contador.
+3.3 Se observa la funcionalidad de cada botón
+3.4 Se observa que los botones siguen incrementando o disminuyendo, sin embargo
+    la primera vez que se incrementa se muestra como 11 o 21 o 31 y a la siguiente vez 
+	que se presione cualquiera de los dos botones si se verá el incremento
+	o dimsinucion del mismo 
+5.2. Se observa el input si se ingresa algo distinto a un numero sólo se muestra el
+	el texto de debe ingresar un número, aunque 
+TAREA:
+Creacion de un componente calculadora:
+CODIGO:
+ ver captura en codigoComponenteCalculadora.
+ captura Calculadora
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES
+///////////////////////////////////////////////////////////////////////////////
+
+A diferencia de los laboratorios anteriores que se ejecutaba el código 
+create-react-app nombredelproyecto y visualizamos en un navegador web,ahora
+por medio del código react-native init nombre se podrá ejecutar en un dispositvo
+móvil.
+Se observa que el código ejecutado anteriomente genera una carpeta con la 
+estructura de un proyecto en android,en iOS,se ve tambien el node_modules.
+A diferencia de los labs anteriores donde el proyecto se ejecutaba a través 
+de npm start ahora para visualizarlo en el celular utilizamos react-native
+run-androidoios 
+Se observa que en el punto 2.2 se crea el componente de nombre Contador que
+dentro de su metodo render retorna una vista con un texto, sin embargo este
+componente creado sólo será visto cuando ingresemos el componente Contador
+en el archivo App.js 
+Se observa que para visualizar el componente contador se ingresa como un 
+elemento html con el nombre del componente creado. 
+Observamos que un componente puede recibir propiedades, una de ellas es usando 
+this.props
+
+Se observó que dentro de la clase del componente contador se asigno un variable 
+dentro del state con un valor de cero, de modo que ahora el otro valor de contador 
+será visto con el valor de cero
+
+Se observó cómo los botones incrementar y disminuir hacen su funcionalidad gracias 
+a que dentro del método invocado por medio de onPress dentro del button se 
+tenía el código de setState en este podemos reasignar el valor de la variable 
+declara en el state.
+
+Se observó la utilizacion de props. que nos permite recibir todo argumento pasado
+al componente desde App.js
+Es interesante ver como se replica el mismo componente cuando enviamos dos valores 
+distintos al contador.
+Se observó la utlización del TextInput , con la propiedad de OnChangeText que se
+dispara cuando modificamos el texto del mismo.
+
+///////////////////////////////////////////////////////////////////////////////
+CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+
+-->Se vió la existencia del ciclo de vida de un componente , que consistía en 
+el montado, Actualizado o desmontado.
+-->Se aprendió que en el montado se da en la primera vez que se renderiza; y dentro
+de ella se ven componentWillMount; render; componentDidMount 
+-->Se vió que en la parte de Actualización se da cuando hay un cambio de propiedades
+o de estado, y nuevamente llama a render en caso de que hubo un cambio.
+-->Se vio que en la etapa de desmontado es invocado cuando el componente va a 
+desaparecer por un estado o por cambiar de pantalla.
