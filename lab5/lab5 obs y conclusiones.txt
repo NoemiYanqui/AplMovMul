@@ -1,0 +1,58 @@
+LABORATORIO 5                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+1.3 Se adjunta gif con el contador autónomo
+	nombre del gif: gif.1.3 
+1.4 Se adjunta gif que muestra la hora, de modo que se actualiza los segundos
+	nombre del gif HORA_GIF1.4
+2   Se observa una captura donde se ve el listado en la pantalla de un objeto
+	Flatlist_Objeto
+2.2 Se observa la captura de la impresionde un lista de un array normal
+	Flatlist_Array
+2.3 Se observa la captura donde vemos la impresion de un array por medio de
+	un flatlist , pero usando keyExtractor ya no muestra la advertencia de 
+	usar la propiedad key. CAPTURA2.3
+2.4 Se adjunta captura donde vemos los nombres  , puesto que el flatlist puede recibir 
+	una variable.
+	captura2.4.ListandoNombres
+2.5 Se adjunta gif donde se muestra una alerta cada vez que se presiona un nombre 
+	en dicha alerta muestra el item.lastname.
+	Alerta.gif
+2.7 Se adjunta gif donde se muestra el buscador , por medio de lo que se inserta
+	en el input
+ 
+3.4 Se adjunta gif 
+TAREA:
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES
+///////////////////////////////////////////////////////////////////////////////
+Se observa la utilizacion del método componentDidMount(), que se realiza cuando 
+componente se ha montado.
+Se observó la utilizacio de la funcion setInterval, dicha funcion recibe dos 
+parametros, el primero es una funcion a repetir,la vimos usando el setState,
+y el segundo parametro es el tiempo que se ejecutara la funcion del parametro1.
+
+Se observó la utlizacion del componente del Flatlist que es un componente, donde
+se hacen uso de las propiedades de data(puede ser un arreglo o un objeto) , tambien 
+renderItem.
+
+Se observo que cuando se muestra un arreglo, debemos tambien poner la propiedad de
+keyExtractor 
+
+Se importó en elemento de TouchableOpacity, utilizandose con la propiedad onPress,
+de modo que cuando se toca un name pues se invocara en método onPressHandler. 
+
+///////////////////////////////////////////////////////////////////////////////
+CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+
+-->Se vió la existencia del ciclo de vida de un componente , que consistía en 
+el montado, Actualizado o desmontado.
+-->Se aprendió que en el montado se da en la primera vez que se renderiza; y dentro
+de ella se ven componentWillMount; render; componentDidMount 
+-->Se vió que en la parte de Actualización se da cuando hay un cambio de propiedades
+o de estado, y nuevamente llama a render en caso de que hubo un cambio.
+-->Se vio que en la etapa de desmontado es invocado cuando el componente va a 
+desaparecer por un estado o por cambiar de pantalla.
