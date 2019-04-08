@@ -1,0 +1,48 @@
+LABORATORIO 6                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+1.10	El error que se encontró  es que no se puede encontrar la variable Home.
+1.1O	Se adjunta gif que muestra dos pantallas, con la correccion hecha.
+	G1.10Muestra2pantallas.gif
+3.1	Se adjunta gif donde se muestra configuraciones del navegador
+	GIF.3.1.gif y ConfNav.gif
+3.4	Se adjunta gif del comportamiento con el screen profile.
+	ScreenProfile.gif
+4.2	Se adjunta gif donde se muestra la pantalla de profile, con el msn bienvenido 
+	Tecsupiano.
+	UsuarioTecsupiano.gif
+4.3	Se adjunta gif donde se muestra el menu lateral
+	menuLateral.gif MenuLateral2.gif
+4.4	Se adjunta gif y captura del menu inferior que se muestra en botones
+	menuBotones.gif
+TAREA:
+Creación de una vista inicial con un lsitado de peliculas(filtradas por una barra de
+búsqueda)
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES
+///////////////////////////////////////////////////////////////////////////////
+Se observa que se insertó código en android, con el fin de habilitar los menús.
+Se observó como pasar parametros de una vista a otra, esto se hace por medio
+de this.props.navigation.navigate(Nombredela Vista,variable que se transmite)
+Se observó que para recibir un parametro desde otra vista se hace por medio de 
+getParam(nombreDeLaVariable,dato por defecto que se muestra si no encuentra nada en la variable)
+
+Se observó que para tener un menu lateral por medio de createDrawerNavigator.
+Se observó que para tener un menu con botones inferiores se hace uso de la importación 
+de createBottonTabNavigator.
+
+///////////////////////////////////////////////////////////////////////////////
+CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+
+-->Se vió la creación de distintos menus, menu alteral, menu con botones, por medio
+de los códigos ; aunque para utilizar es es necesario instalar react-navgation, 
+react-native-gesture-handler 
+-->Debemos importar createStackNavigator y createAppContainer from react-navigation
+paquete que fue instalado anteriormente, para poder crear un variable de tipo createS
+tackNavigator
+
+-->Se aprendió que en la creación de los menús se dan las rutas, como se ve Home, Details
+y la propiedad initialRouteName , que será la vista de inicio.
