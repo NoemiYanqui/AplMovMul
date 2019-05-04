@@ -1,0 +1,3 @@
+rootProject.name = 'tareaLab5'
+
+include ':app'
