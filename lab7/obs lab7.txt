@@ -1,0 +1,72 @@
+LABORATORIO 7                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+ESQUEMA DE UNA APLICACIÓN
+
+4.3. captura 4.3.
+
+6.1 TAREA.gif
+    Se muestra la vista de SignUp 
+
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES
+///////////////////////////////////////////////////////////////////////////////
+--> Se observó la pantalla de carga antes de visualizar la primera vista.
+--> Se observó la conexión con la api, por medio de axios.
+--> En este lab se instal+o react-nvigation, react-native-gesture-handler;
+react-native-gesture-handler, async-storage, react-native-icons, textinput-effects,
+ionicons, axios
+--> Se añadió la depnedencia para imágenes gif en Android.
+--> Se vió como agregar iconos
+--> Se observó que el componente fumi podmeos utilizarlo para que un textinput posea efectos
+
+
+///////////////////////////////////////////////////////////////////////////////
+CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+
+-->Se utilizó la API para crear una cuenta
+-> Se aprendió a agregar componentes y estilos.
+-->Se aprendió a consumir una API, la misma que se esta consumiendo en DAWA, por medio 
+de axios.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
