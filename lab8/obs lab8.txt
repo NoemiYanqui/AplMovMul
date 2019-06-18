@@ -1,0 +1,73 @@
+LABORATORIO 8                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+					CHAT Y SOCKET .IO
+2.4  captura
+4.3. captura 4.3.
+     captura logandroid.jpg 
+3.1  captura vistadeChat
+
+     TAREA.jpg
+
+
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES Y CONSLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+--> Se observó la pantalla de carga antes de visualizar la primera vista.
+--> Se observó la conexión con la api, por medio de axios,la instalacion de socket
+gifted-chat, socketioClient.
+--> Se viò que se puede ejecutar en otra consola react-native log-android que 
+nos permite ver los errores.
+--A Se observò que el la vista de chat se importò el componente GiftedChat, 
+èste contienen un placeholder, y las cciones para modificar el estado
+de mensaje y el usuario.
+-->Se viò la utilizaciòn del componente Modal.
+-->Se insetò la imagen al usuario. y por medio de socket.io se vio el consumo de datos 
+en tiempo real.
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
