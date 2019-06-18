@@ -1,0 +1,67 @@
+LABORATORIO 9                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+					ACCESO A LA CAMARA
+
+3.1  captura solicitarPermiso de cámara PermisoCamara.png
+     captura NavigatorCamara
+3.3. captur de al presionar el boton snap muestra en log-android
+     captura AlertaError.png
+4.2  captura uploads.png(Verificando la creacion de la carpeta uploads)
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES Y CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+--> Se instalò la dependencia de multer en el servidor.
+--> Se instalò la dependencia de react-native-camera, y se crea como un drawerNavigator
+-->
+-->Se aprendiò a crear componentes camara, RNCamera, en esta vista se usa el componente
+RNCamera en el cual se configura una advertencia para usar la cámara.
+--> Se vio que cuando se sube la imagen al servidor, por medio de axios.
+--> Se observó que por medio de multer se puede dar la dirección donde se guardan 
+las fotos en el servidor.
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
