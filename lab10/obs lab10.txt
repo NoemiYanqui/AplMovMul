@@ -1,0 +1,67 @@
+LABORATORIO 10                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+					MAPAS
+2. VistaDelMapa.png
+3. PermisoGPS.png
+4. MarcadorMapa.png
+6. BotonFlotante.png
+
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES Y CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+--> Se instalò la dependencia de multer en el servidor.
+--> Se instalò la dependencia de react-native-camera, y se crea como un drawerNavigator
+--> Se observò que para utilizar el mapa al archivo de manifest en android.
+--> Se observò la importancia  activar la geolocalizaciòn y establecer el token de 
+    google Maps, pues de no hacerlo no se visualizarà el mapa.
+--> Se observò la creaciòn del componente Mapa, tambien la utilizaciòn de un modal,
+    y del mètodo para mostrar la alerta y poder permitir el acceso a la posicion por 
+    medio del GPS.
+--> Se observò que al agregar un marcador y dicho componente Marker es importado 
+    desde react-native-maps, este componante se ve onDragEnd, que nos entregarà
+    las coordenadas de la nueva posiciòn por medio del evento de onDragEnd 
+--------------------------------------------------------------------------
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
