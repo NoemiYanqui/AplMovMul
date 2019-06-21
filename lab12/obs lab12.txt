@@ -1,0 +1,71 @@
+LABORATORIO 12                           CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+					SETTINGS Y FLATLIST
+1. FuncionamientoLista.mp4
+2. Configuracion.mp4
+
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES Y CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+
+--> Se observò la instalaciòn de settings-list.
+--> Se realizò la creaciòn del componente Settings, donde el estado depende 
+del valor de switchvalue.
+--> Utilizar un componente SettingList , permite usar item, header, que permite 
+configurar el stylo y el contenido e inclusive el uso de modales.
+--> Se realizò un listado con la informacion de un API envandole el paràmetro offset
+que equivale a la pàgina en la que se encuentra 
+--> Se vio la propiedad ListFooterComponent
+
+
+--------------------------------------------------------------------------
+
+ 
+
+   
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
