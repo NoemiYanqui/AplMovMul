@@ -1,0 +1,65 @@
+LABORATORIO 11                            CURSO: Aplicaciones Multiplataforma
+
+ESTUDIANTE:NOEMI YANQUI CUEVA
+
+					ESTILOS Y COMPONTES DE UI
+1. Funcionamiento.GIF
+
+
+///////////////////////////////////////////////////////////////////////////////
+OBSERVACIONES Y CONCLUSIONES
+///////////////////////////////////////////////////////////////////////////////
+
+--> Se observò la instalaciòn de md5 y react natice-elements
+--> Se observò la creciòn de los componentes de Profile, ProfileEdit, Lists y Settings
+--> Se agregaron los componentes de UI.
+--> Es interesnte ver la creaciòn de una plantilla para los estilos a la que llamamos
+base.js en la que declaramos variables globales de dimensiones, colores, padding , fuentes
+y colordelteto y ver como global.js utiliza las varables anteriores para crear 
+un hoja de estilos con itulo, subtitulo e iconContainer.(Permitiendo hacer una buena
+practica de progrmaciòn, ya que asi mantenemos en orden el còdigo y cuando se 
+quiere hacer una modificaciòn al estilo no se tendra que hacer uno por uno sino de
+manera grupal )
+--> Se vio nuevamente el uso de gravatar para la obtencion de una foto de perfil y md5
+para la obtencion de la imagen asociado a un email.
+--> Este laboratorio permitiò entender la manera de utilizar un componente dentro de otro
+para poder aprovechar sus caracteristicas en el tema de estilos.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
